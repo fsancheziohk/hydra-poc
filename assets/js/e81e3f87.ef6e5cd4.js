@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkhydra_head_protocol_docs=self.webpackChunkhydra_head_protocol_docs||[]).push([[4856],{3987:function(a){a.exports=JSON.parse('{"allTagsPath":"/hydra-poc/adr/tags","slug":"/hydra-poc/adr/tags/draft","name":"Draft","count":3,"permalink":"/hydra-poc/adr/tags/draft"}')}}]);
